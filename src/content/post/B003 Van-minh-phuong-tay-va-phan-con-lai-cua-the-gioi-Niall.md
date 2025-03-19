@@ -3,9 +3,6 @@ title: "Văn minh: Phương tây và phần còn lại của thế giới - Nial
 description: "Vì sao phương Tây vượt lên các quốc gia đông dân châu Á để thống trị và liệu đã đến lúc tình thế bị đảo ngược?"
 publishDate: "03 Sep 2023"
 updatedDate: "03 Sep 2023"
-coverImage:
-  src: "./cover-image/B003 Van-minh-phuong-tay-va-phan-con-lai-cua-the-gioi-Niall-Ferguson.jpg"
-  alt: "Van minh phuong tay va phan con lai cua the gioi"
 tags: ["books", "history", "Niall Ferguson", "civilization"]
 ---
 
@@ -15,6 +12,8 @@ Các cuốn sách khác cùng của tác giả:
 
 - 2003 - `Empire: How Britain Made the Modern World`
 - 2004 - `Colossus: The Rise and Fall of America’s Empire`
+
+![](./cover-image/B003.jpg)
 
 ## Lời nói đầu
 
