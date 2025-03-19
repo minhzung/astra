@@ -13,7 +13,6 @@ Các cuốn sách khác cùng của tác giả:
 - 2003 - `Empire: How Britain Made the Modern World`
 - 2004 - `Colossus: The Rise and Fall of America’s Empire`
 
-![](./cover-image/B003.jpg)
 
 ## Lời nói đầu
 
