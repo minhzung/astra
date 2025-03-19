@@ -26,9 +26,6 @@ Cuốn này tôi đọc trong khoảng tháng 5-6 năm 2022, một mùa hè hậ
 
 Sách bao gồm 14 chương không cần đọc theo thứ tự, dưới đây ghi chép lại các đoạn highlight kèm suy nghĩ của tôi. _(Một số đoạn không có bình luận, cơ bản bởi câu chữ bản thân nó đã nói lên tất cả)._
 
-## Table of contents
-
----
 
 ## Phần mở đầu: Thánh đường trong mây
 
